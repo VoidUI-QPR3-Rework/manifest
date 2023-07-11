@@ -54,6 +54,9 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" name="prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.9" remote="pixel" clone-depth="1" />
   <project path="prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.9" name="prebuilts_gcc_linux-x86_x86_x86_64-linux-android-4.9" remote="pixel" clone-depth="1" />
 
+  <!-- Kernel Tools -->
+  <project path="prebuilts/kernel-build-tools" name="kernel/prebuilts/build-tools" clone-depth="1" remote="aosp" revision="refs/tags/android-13.0.0_r0.85" />
+
   <!-- Prebuilts repos - Snapdragon LLVM Clang -->
   <project path="prebuilts/clang/host/linux-x86/clang-sdclang" name="snapdragon-clang" remote="voidui-gitlab" clone-depth="1" />
 
