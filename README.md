@@ -8,10 +8,10 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/VoidUI-QPR3-Rework/manifest -b aosp-13
+repo init -u https://github.com/VoidUI-T-Unofficial/manifest -b aosp-13
 
 # Use this if you want to save some space
-repo init -u https://github.com/VoidUI-QPR3-Rework/manifest -b aosp-13 --depth=10
+repo init -u https://github.com/VoidUI-T-Unofficial/manifest -b aosp-13 --depth=10
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags

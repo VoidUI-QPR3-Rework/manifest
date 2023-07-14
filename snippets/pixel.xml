@@ -28,7 +28,7 @@
           revision="aosp-13" />
 
   <remote name="rework"
-          fetch="https://github.com/VoidUI-QPR3-Rework"
+          fetch="https://github.com/VoidUI-T-Unofficial"
           revision="aosp-13" />
   
   <remote name="voidui-devices"
