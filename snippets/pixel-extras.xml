@@ -15,7 +15,7 @@
   <project path="external/fastrpc" name="external_fastrpc" remote="voidui" />
 
   <!-- GameSpace Chaldeaprjkt -->
-  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="voidui" />
+  <project path="packages/apps/GameSpace" name="packages_apps_GameSpace" remote="rework" />
 
   <!-- General repos -->
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="rework" />
